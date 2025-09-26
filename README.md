@@ -135,3 +135,7 @@ GTC-RealTime-Object-Detection/
 - **BDD100K Dataset**: UC Berkeley AI Research.
 - **YOLOv8**: Ultralytics team.
 - Inspired by open-source object detection tutorials.
+
+
+## Presentation
+- presentation link: https://www.canva.com/design/DAG0EZHnDMA/qoZxDsb6GdLPdiAAsvm3NQ/view?utm_content=DAG0EZHnDMA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hac7ec70433
