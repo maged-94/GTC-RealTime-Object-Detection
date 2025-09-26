@@ -1,4 +1,4 @@
-# YOLOv8 Object Detection on BDD100K Dataset
+# YOLOv11 Object Detection on BDD100K Dataset
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
